@@ -1,0 +1,6 @@
+{
+  "name": "Speakiy",
+  "description": "Real-time speaking conversations across 30+ languages with instant grammatical feedback, fluency scoring, and verified native speaker matchmaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
